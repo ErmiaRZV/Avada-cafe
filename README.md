@@ -1,9 +1,9 @@
-# Awada Cafe
+# Avada Cafe
  **My first project , created by html5, css3**
 
 Linkedin : https://www.linkedin.com/in/ermia-razavi-a611312a3/
 Github : https://github.com/ErmiaRZV
-- [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-ByReact/)
+- [Demo Project](https://ermiarzv.github.io/Avada-cafe/)
 - Developed by Ermia Razavi
 - Created - 2022-11-26
 - 🤖 Technologies Used - Html , css 
