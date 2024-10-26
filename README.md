@@ -3,9 +3,7 @@
 
  ![avada_cafe](https://github.com/user-attachments/assets/8e454615-5da7-4c75-a136-2d8aff7af499)
 
-Linkedin : https://www.linkedin.com/in/ermia-razavi-a611312a3/
 
-Github : https://github.com/ErmiaRZV
 - [Demo Project](https://ermiarzv.github.io/Avada-cafe/)
 - Developed by Ermia Razavi
 - Created - 2023
