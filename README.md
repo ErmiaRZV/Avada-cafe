@@ -1,6 +1,8 @@
 # Avada Cafe
  **My first project , created by html5, css3**
 
+ ![avada_cafe](https://github.com/user-attachments/assets/8e454615-5da7-4c75-a136-2d8aff7af499)
+
 Linkedin : https://www.linkedin.com/in/ermia-razavi-a611312a3/
 
 Github : https://github.com/ErmiaRZV
