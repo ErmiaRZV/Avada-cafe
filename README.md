@@ -1,7 +1,6 @@
 # Avada Cafe
- **My first project , created by html5, css3**
-
- ![avada_cafe](https://github.com/user-attachments/assets/8e454615-5da7-4c75-a136-2d8aff7af499)
+ **created by html and pure css**
+ **This project is NOT responsive**
 
 
 - [Demo Project](https://ermiarzv.github.io/Avada-cafe/)
@@ -12,3 +11,5 @@
 [instagram](https://www.instagram.com/ermia_razavi.dev) and
 [linkedin](https://www.linkedin.com/in/ermia-razavi-a611312a3/)
 
+
+![avada_cafe](https://github.com/user-attachments/assets/8e454615-5da7-4c75-a136-2d8aff7af499)
