@@ -1,5 +1,6 @@
 # Avada Cafe
  **created by html and pure css**
+ 
  **This project is NOT responsive**
 
 
